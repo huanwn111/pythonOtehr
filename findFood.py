@@ -8,7 +8,6 @@
 #登录请求是怎么找到的？页面正常登录勾选network里Preserve log,完成登录后即可找到。Preserve log可保障不会登录后跳走消息这个请求
 #【取到的json取值时 注意json转字典再取.json()['键名']，不要习惯性直接取了】
 #图片验证码取到的 base64编码要split一下，逗号后面是，前面加了标识
-#//要知道本例中这些爬取的用户行为初次接触有点陌生，但都是很初级很常用的，战略上藐视它。
 
 import requests as req
 import json
