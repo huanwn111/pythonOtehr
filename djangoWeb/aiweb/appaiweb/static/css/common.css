@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* 公共样式表 ph */
+header{ background: url(../../static/images/ai_logo.png) repeat #87ceeb left top; background-color: #87ceeb; text-align: center; padding: 20px;}
+/*header h1{ font-size: 40px;color: white; font-family: '黑体'; transform: skew(30,10)}*/
+footer{ background-color:#87ceeb; padding:20px; text-align:center; }
+.fl{ float: left;}
+.fr{ float:right;}
+.tr{ text-align: right;}
+.tc{ text-align: center}
+.mt_20{margin-top: 20px}
+.ml_20{ margin-left: 20px;}
+
+.aiLogo{ /*background: url(../../static/images/ai_logo.png) left top;*/ width:372px; height: 90px; text-indent: -1000px;}
+
+.wrap_body{ width: 90%; margin: 20px auto;}
+
+.btn_blue{ cursor: pointer; background-color:#87ceeb; color:white; padding:10px 20px; border:0px; font-size: 20px;}
+.btn_brown{ cursor: pointer; background-color:brown; color:white;  width:80%; padding: 10px; border:0px; font-size: 20px;}
+
+.ulBoxList li{ height:auto; overflow:hidden; zoom:1}

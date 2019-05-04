@@ -1,0 +1,24 @@
+{% load static %}
+<!--#导入static函数，相当于内置函数，就是来定义静态文件路径的。-->
+<!--双大括号使变量 大括号加百分号 使用函数-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>hello world</title>
+		<link rel='stylesheet' href='{% static "/css/base.css" %}'/>
+		<link rel='stylesheet' href='{% static "/css/page.css" %}'/>
+		<script src='{% static "/js/jquery.min.js" %}'></script>
+		<!--注意script 用src-->
+		<!--使用函数static会去static_url setting的路径去找，第二参具体文件-->
+	</head>
+	<body>
+			<p>用户显示</p>
+		{%for i in datas %}
+		<p>{{i.uName}} {{i.uPassword}}</p>
+		{% endfor %}
+	</body>
+</html>
+<script>
+
+</script>

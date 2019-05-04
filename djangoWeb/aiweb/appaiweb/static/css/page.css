@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* 页面样式表 ph */
+.wrap_l{ width:65%}
+.wrap_l textarea{ width: 100%; border: 2px inset #ccc; height: 100px;}
+.wrap_r{ width:30%; margin-left:20px;}
+.wrap_r textarea{ width: 100%; border: 2px inset #ccc; height: 100px;}
