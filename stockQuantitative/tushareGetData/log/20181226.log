@@ -1,0 +1,271 @@
+2018-12-26 09:03:29,ERROR,updateStockBasic.py,update_stock_base,other error
+2018-12-26 09:27:21,ERROR,updateStockBasic.py,update_stock_base,(1049, "Unknown database 'stock'")
+2018-12-26 09:29:05,ERROR,updateStockBasic.py,update_stock_base,(1049, "Unknown database 'stock'")
+2018-12-26 09:30:12,ERROR,updateStockBasic.py,update_stock_base,(1049, "Unknown database 'stock'")
+2018-12-26 10:15:40,ERROR,updateStockBasic.py,update_stock_base,(1049, "Unknown database 'stock'")
+2018-12-26 10:18:20,ERROR,updateStockBasic.py,update_stock_base,(1049, "Unknown database 'stock'")
+2018-12-26 10:36:53,ERROR,updateStockBasic.py,update_stock_base,(1049, "Unknown database 'stock'")
+2018-12-26 12:40:45,ERROR,updateStockBasic.py,update_stock_base,(1049, "Unknown database 'stock'")
+2018-12-26 12:49:16,ERROR,updateStockBasic.py,update_stock_base,(1049, "Unknown database 'stock'")
+2018-12-26 12:55:57,ERROR,updateStockBasic.py,update_stock_base,(1146, "Table 'stock.stock_basic' doesn't exist")
+2018-12-26 12:57:32,ERROR,updateStockBasic.py,update_stock_base,(1146, "Table 'stock.stock_basic' doesn't exist")
+2018-12-26 12:58:19,ERROR,updateStockBasic.py,update_stock_base,(1054, "Unknown column 'ts_code' in 'field list'")
+2018-12-26 13:03:32,ERROR,updateStockBasic.py,update_stock_base,(1054, "Unknown column 'ts_code' in 'field list'")
+2018-12-26 13:05:27,ERROR,updateStockBasic.py,update_stock_base,(1054, "Unknown column 'ts_code' in 'field list'")
+2018-12-26 13:09:04,ERROR,updateStockBasic.py,update_stock_base,(1054, "Unknown column 'symbol' in 'field list'")
+2018-12-26 13:10:09,ERROR,updateStockBasic.py,update_stock_base,(1054, "Unknown column 'symbol' in 'field list'")
+2018-12-26 13:11:33,ERROR,updateStockBasic.py,update_stock_base,(1292, "Incorrect datetime value: '主板' for column 'market' at row 1")
+2018-12-26 13:12:53,ERROR,updateStockBasic.py,update_stock_base,(1292, "Incorrect datetime value: '主板' for column 'market' at row 1")
+2018-12-26 13:18:32,ERROR,updateStockBasic.py,update_stock_base,(1292, "Incorrect datetime value: '主板' for column 'market' at row 1")
+2018-12-26 13:33:44,INFO,updateStockBasic.py,update_stock_base,finish update stock basic
+2018-12-26 13:33:45,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:46,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:47,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:47,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:48,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:49,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:50,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:51,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:52,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:52,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:53,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:55,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:55,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:56,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:57,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:57,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:58,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:33:59,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:00,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:01,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:02,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:03,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:04,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:06,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:07,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:08,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:08,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:10,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:10,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:11,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:11,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:12,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:13,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:14,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:14,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:15,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:15,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:16,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:16,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:17,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:18,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:18,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:19,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:20,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:20,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:22,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:23,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:23,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:25,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:26,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:27,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:30,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:31,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:33,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:35,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:36,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:37,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:37,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:38,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:38,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:39,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:39,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:41,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:41,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:43,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:43,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:44,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:44,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:46,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:46,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:47,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:47,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:48,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:50,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:51,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:52,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:53,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:55,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:55,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:57,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:57,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:34:59,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:00,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:00,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:03,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:03,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:04,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:04,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:06,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:06,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:08,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:09,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:35:09,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:38:03,ERROR,updateStockBasic.py,update_stock_base,(1146, "Table 'stock.stock_basic' doesn't exist")
+2018-12-26 13:45:29,INFO,updateStockBasic.py,update_stock_base,finish update stock basic
+2018-12-26 13:45:31,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:33,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:33,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:36,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:38,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:38,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:40,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:45,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:46,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:47,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:48,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:49,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:50,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:52,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:52,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:54,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:57,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:57,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:58,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:45:59,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:00,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:02,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:04,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:06,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:07,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:07,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:08,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:09,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:10,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:11,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:11,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:14,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:14,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:18,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:20,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:21,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:21,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:22,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:24,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:25,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:26,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:27,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:28,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:29,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:30,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 13:46:31,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:04:49,INFO,updateStockBasic.py,update_stock_base,finish update stock basic
+2018-12-26 14:04:52,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:04:53,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:04:55,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:04:55,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:04:56,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:04:56,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:04:58,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:04:59,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:00,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:01,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:02,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:02,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:03,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:03,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:04,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:06,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:06,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:08,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:08,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:09,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:09,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:10,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:10,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:12,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:12,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:13,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:15,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:16,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:17,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:18,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:19,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:19,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:20,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:05:21,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:33,INFO,updateStockBasic.py,update_stock_base,finish update stock basic
+2018-12-26 14:06:34,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:35,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:36,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:37,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:38,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:39,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:40,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:40,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:42,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:43,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:44,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:45,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:45,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:46,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:06:48,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:33,INFO,updateStockBasic.py,update_stock_base,finish update stock basic
+2018-12-26 14:09:34,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:34,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:36,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:36,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:37,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:37,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:39,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:39,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:40,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:41,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:41,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:43,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:43,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:44,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:44,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:45,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:45,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:47,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:47,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:48,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:48,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:50,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:50,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:51,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:51,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:53,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:53,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:54,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:55,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:55,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:56,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:56,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:58,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:59,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:09:59,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:01,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:02,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:03,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:03,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:04,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:04,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:06,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:06,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:08,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:08,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:09,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:09,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:11,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:12,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:12,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:10:14,ERROR,updateStockData.py,update_stock_data,other error
+2018-12-26 14:14:07,INFO,updateStockBasic.py,update_stock_base,finish update stock basic
+2018-12-26 14:19:35,INFO,updateStockData.py,update_stock_data,001872.SZ,插入所有数据
+2018-12-26 14:19:35,INFO,updateStockData.py,update_stock_data,finish update stock data
+2018-12-26 16:03:45,INFO,updateStockBasic.py,update_stock_base,finish update stock basic
+2018-12-26 16:07:53,INFO,updateStockData.py,update_stock_data,001872.SZ,插入所有数据
+2018-12-26 16:07:53,INFO,updateStockData.py,update_stock_data,finish update stock data
+2018-12-26 16:15:38,INFO,updateStockBasic.py,update_stock_base,finish update stock basic
